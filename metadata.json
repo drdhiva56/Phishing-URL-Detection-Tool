@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PhishGuard AI - Cyber Analysis Tool",
+  "description": "A professional-grade phishing URL detection tool using heuristic analysis and Gemini AI to identify malicious links, suspicious structures, and deceptive keywords.",
+  "requestFramePermissions": []
+}
